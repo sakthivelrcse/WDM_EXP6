@@ -15,8 +15,7 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 5. Execute a sample query and display the search results along with similarity scores.
 
 ### Program:
-
-```python
+```
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
@@ -67,5 +66,10 @@ for result in search_results:
     print("----------------------")
 ```
 ### Output:
+![image](https://github.com/21005688/WDM_EXP6/assets/94747031/3b99c52f-b08c-41c4-9417-a047dd367dab)
+
 
 ### Result:
+Thus Information Retrieval Using Vector Space Model has been implemented successfully implemented in Python.
+
+
